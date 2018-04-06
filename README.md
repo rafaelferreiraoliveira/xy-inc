@@ -9,6 +9,10 @@
 
 	R3 ->	Construa um serviço para listar POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de referência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
 
+#	Aplicação
+
+->	Para resolver este desafio foi desenvolvido projeto poiBusinessApi
+
 #	Iniciando Aplicação
 
 ->	Para iniciar a aplicação deve-se executar a classe PoiBusinessApiApplication como uma Aplicação Java, ou "Java Application".
