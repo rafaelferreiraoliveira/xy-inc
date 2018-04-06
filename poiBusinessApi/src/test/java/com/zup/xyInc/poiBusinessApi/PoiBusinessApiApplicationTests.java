@@ -232,7 +232,7 @@ public class PoiBusinessApiApplicationTests {
 	}
 	
 	/**
-	 * Teste responsável por buscar POIs próximos ao ponto X=20, Y=10 e com distância máxima de 10 unidades de medida
+	 * Teste responsável por buscar POIs próximos ao ponto X=20, Y=10 e com distância máxima de 10 metros
 	 * 
 	 * Retorno esperado: lista de POIs cadastrados próximos a este ponto
 	 * 
@@ -249,7 +249,7 @@ public class PoiBusinessApiApplicationTests {
 	}
 	
 	/**
-	 * Teste responsável por cadastrar um novo POI e buscar todos os POIs próximos ao ponto X=20, Y=10 e com distância máxima de 10 unidades de medida
+	 * Teste responsável por cadastrar um novo POI e buscar todos os POIs próximos ao ponto X=20, Y=10 e com distância máxima de 10 metros
 	 * 
 	 * Retorno esperado: objeto POI cadastrado e lista de POIs cadastrados próximos a este ponto, trazendo pelo menos o POI cadastrado neste teste
 	 * 
