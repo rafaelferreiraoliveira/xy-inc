@@ -24,10 +24,10 @@ R1	->	Inserir um novo POI.
 	*	Method:	POST
 	*	Header: application/json
 	*	Body:	{
-					"nome":"Casa",
-					"coordenadaX":18,
-					"coordenadaY":5
-				}
+				"nome":"Casa",
+				"coordenadaX":18,
+				"coordenadaY":5
+			}
 
 	->	Retorno esperado:
 
@@ -38,8 +38,8 @@ R1	->	Inserir um novo POI.
    		"coordenadaY": 5
 	}
 
-	*	Observação: o objeto informado no body é do tipo PoiDTO;
-					o valor do código é um número "auto increment", assim o número um representado acima é apenas um exemplo;
+	*	Observação:	o objeto informado no body é do tipo PoiDTO;
+				o valor do código é um número "auto increment", assim o número um representado acima é apenas um exemplo;
 
 R2	->	Listar todos os POIs cadastrados.
 
