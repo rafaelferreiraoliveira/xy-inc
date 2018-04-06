@@ -91,7 +91,7 @@ R3	->	Listar todos os POIs a uma distância máxima de um ponto informado.
    		...
 	]
 
-	*	Observação:	o exemplo acima considera a consulta de todos os POIs próximos ao ponto de coordenada X igual a 20,	coordenada Y igual a 10 e a uma distância máxima de 10 unidades de medida.
+	*	Observação:	o exemplo acima considera a consulta de todos os POIs próximos ao ponto de coordenada X igual a 20,	coordenada Y igual a 10 e a uma distância máxima de 10 metros.
 
 #	Observações
 
